@@ -220,7 +220,7 @@ class FreeScoutServiceTest extends TestCase
         $service = $this->createServiceWithMockClient($handlerStack, null);
         
         $this->expectException(\RuntimeException::class);
-        $this->expectExceptionMessage('No mailbox ID configured');
+        $this->expectExceptionMessage('No mailbox ID configured and no mailboxes found in FreeScout. Please set FREESCOUT_MAILBOX_ID environment variable.');
         
         $service->getConfiguredMailboxId();
     }
